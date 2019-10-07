@@ -14,11 +14,15 @@
     "url": "https://github.com/free-easy/gatsby-theme-material-blog"
   },
   "dependencies": {
+    "@theme-ui/presets": "^0.2.42",
+    "@theme-ui/typography": "^0.2.40",
     "gatsby": "^2.15.28",
     "gatsby-plugin-manifest": "^2.2.20",
     "gatsby-plugin-offline": "^3.0.11",
-    "gatsby-theme-material-blog": "github:free-easy/gatsby-theme-material-blog",
+    "gatsby-theme-material-blog": "^0.0.1",
+    "lodash": "^4.17.15",
     "react": "^16.10.1",
-    "react-dom": "^16.10.1"
+    "react-dom": "^16.10.1",
+    "typography-theme-doelger": "^0.16.19"
   }
 }

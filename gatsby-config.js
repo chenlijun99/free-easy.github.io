@@ -1,6 +1,5 @@
 module.exports = {
   plugins: [
-    { resolve: `gatsby-theme-material-blog` },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -14,8 +13,9 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    { resolve: `gatsby-theme-material-blog` },
   ],
   siteMetadata: {
-    title: `Shadowed Site Title`,
+    title: `Knowledge Base`,
   },
 }
