@@ -1,2 +1,2 @@
 [build]
-  ignore = "git diff --quiet HEAD^ HEAD content/"
+  ignore = "git diff --quiet HEAD^ HEAD content/ || git log -1  --pretty='%s' | grep -i 'draft'"
