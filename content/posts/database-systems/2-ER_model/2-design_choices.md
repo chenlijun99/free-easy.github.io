@@ -1,0 +1,3 @@
+## Aggregation vs Ternary Relationships
+
+
