@@ -16,13 +16,13 @@
   "dependencies": {
     "@theme-ui/presets": "^0.2.42",
     "@theme-ui/typography": "^0.2.40",
-    "gatsby": "^2.15.28",
-    "gatsby-plugin-manifest": "^2.2.20",
-    "gatsby-plugin-offline": "^3.0.11",
-    "gatsby-theme-material-blog": "^0.0.1",
+    "gatsby": "^2.17.12",
+    "gatsby-plugin-manifest": "^2.2.27",
+    "gatsby-plugin-offline": "^3.0.20",
+    "gatsby-theme-material-blog": "^1.0.0",
     "lodash": "^4.17.15",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "typography-theme-doelger": "^0.16.19"
   }
 }
